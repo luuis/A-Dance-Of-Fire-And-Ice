@@ -1,0 +1,26 @@
+{
+  "name": "a-dance-of-fire-and-ice",
+  "version": "1.0.0",
+  "description": "A canvas game based on the popular game \"A Dance Of Fire And Ice\" by 7th Beat Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luuis/A-Dance-Of-Fire-And-Ice.git"
+  },
+  "keywords": [
+    "fire",
+    "ice",
+    "dance",
+    "canvas",
+    "game"
+  ],
+  "author": "Luuis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luuis/A-Dance-Of-Fire-And-Ice/issues"
+  },
+  "homepage": "https://github.com/luuis/A-Dance-Of-Fire-And-Ice#readme"
+}
